@@ -1,0 +1,3 @@
+SELECT * FROM [Orders]
+WHERE OrderDate BETWEEN "1996-12-01"
+AND "1996-12-31";
