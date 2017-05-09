@@ -19,7 +19,11 @@ var records = [
 {brand:"Nike", catagory: "Footwear", size:"11.5", color:"Royal Blue, Black, White", description: "Retro Royal 1s", photo:"photo link here"} 
 ];
 function displayRecords () {
+  var fullDisplay = "";
   for(var i=0; i<records.length; i++) {
-var item = records[i];
+    var item = records[i];
+    fullDisplay += '<div id="item'+i+'" >';
+    
+    fullDisplay += '</div>';
   }
 }
