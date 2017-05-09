@@ -31,5 +31,5 @@ function displayRecords () {
     fullDisplay += '<div class="itemDescription">Description:'+item.Description+'</div>';
     fullDisplay += '</div>';
   }
-  element = document.getElementById("catalog items);
+  element = document.getElementById("catalogItems");
 }
