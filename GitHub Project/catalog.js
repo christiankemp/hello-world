@@ -23,7 +23,7 @@ function displayRecords () {
   for(var i=0; i<records.length; i++) {
     var item = records[i];
     fullDisplay += '<div id="item'+i+'" >';
-    
+    fullDisplay += '<div class="itemBrand">'brand'
     fullDisplay += '</div>';
   }
 }
