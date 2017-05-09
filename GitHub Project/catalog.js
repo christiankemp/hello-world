@@ -25,7 +25,10 @@ function displayRecords () {
     fullDisplay += '<div id="item'+i+'" >';
     
     fullDisplay += '<div class="itemBrand">Brand:'+item.brand+'</div>';
-    
+    fullDisplay += '<div class="itemCatagory">Catagory:'+item.Catagory+'</div>';
+    fullDisplay += '<div class="itemSize">Size:'+item.Size+'</div>';
+    fullDisplay += '<div class="itemColor">Color:'+item.Color+'</div>';
+    fullDisplay += '<div class="itemDescription">Description:'+item.Description+'</div>';
     fullDisplay += '</div>';
   }
 }
