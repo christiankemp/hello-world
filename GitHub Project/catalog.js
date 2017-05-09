@@ -18,8 +18,8 @@ var records = [
 {brand:"Nike", catagory: "Footwear", size:"12", color:"Red, Black, White", description: "Retro BRED 1s", photo:"photo link here"}
 {brand:"Nike", catagory: "Footwear", size:"11.5", color:"Royal Blue, Black, White", description: "Retro Royal 1s", photo:"photo link here"} 
 ];
-function display records () {
-four(bar I=0; I<records.link; I++) {
-  
-}
+function displayRecords () {
+  for(var i=0; i<records.length; i++) {
+
+  }
 }
