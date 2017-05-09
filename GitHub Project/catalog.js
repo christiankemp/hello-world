@@ -20,6 +20,6 @@ var records = [
 ];
 function displayRecords () {
   for(var i=0; i<records.length; i++) {
-
+var records [i];
   }
 }
