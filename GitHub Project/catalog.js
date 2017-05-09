@@ -32,5 +32,5 @@ function displayRecords () {
     fullDisplay += '</div>';
   }
   element = document.getElementById("catalogItems");
-  element.innerHTML=fullDisplay
+  element.innerHTML=fullDisplay;
 }
