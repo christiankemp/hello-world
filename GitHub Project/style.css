@@ -1,9 +1,14 @@
 .itemBrand {
 color: navy;
 }
+.title {
+color: black;
+}
 #catalogItems div[id^=item]
 {
 width:200px;
 display:inline-block;
 margin:20px;
+color: white;
+background-color: teal;
 }
