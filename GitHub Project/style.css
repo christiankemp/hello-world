@@ -1,3 +1,6 @@
 .itemBrand {
 color: navy;
 }
+#catalogItems div[id|=item]
+{width=200tx;
+display:inline-block;
