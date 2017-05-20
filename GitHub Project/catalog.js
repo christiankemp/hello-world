@@ -24,7 +24,7 @@ function displayRecords () {
     var item = records[i];
     fullDisplay += '<div id="item'+i+'" >';
     
-    fullDisplay += '<div class="itemBrand">Brand:'+item.brand+'</div>';
+    fullDisplay += '<div class="itemBrand">-span class"title">Brand:</span>'+item.brand+'</div>';
     fullDisplay += '<div class="itemCatagory">Catagory:'+item.catagory+'</div>';
     fullDisplay += '<div class="itemSize">Size:'+item.size+'</div>';
     fullDisplay += '<div class="itemColor">Color:'+item.color+'</div>';
