@@ -24,11 +24,11 @@ function displayRecords () {
     var item = records[i];
     fullDisplay += '<div id="item'+i+'" >';
     
-    fullDisplay += '<div class="itemBrand"><span class"title">Brand:</span>'+item.brand+'</div>';
-    fullDisplay += '<div class="itemCatagory"><span class"title">Catagory:</span>'+item.catagory+'</div>';
-    fullDisplay += '<div class="itemSize"><span class"title">Size:</span>'+item.size+'</div>';
-    fullDisplay += '<div class="itemColor"><span class"title">Color:</span>'+item.color+'</div>';
-    fullDisplay += '<div class="itemDescription"><span class"title">Description:</span>'+item.description+'</div>';
+    fullDisplay += '<div class="itemBrand"><span class="title">Brand:</span>'+item.brand+'</div>';
+    fullDisplay += '<div class="itemCatagory"><span class="title">Catagory:</span>'+item.catagory+'</div>';
+    fullDisplay += '<div class="itemSize"><span class"title=">Size:</span>'+item.size+'</div>';
+    fullDisplay += '<div class="itemColor"><span class"title=">Color:</span>'+item.color+'</div>';
+    fullDisplay += '<div class="itemDescription"><span class"title=">Description:</span>'+item.description+'</div>';
     fullDisplay += '</div>';
   }
   element = document.getElementById("catalogItems");

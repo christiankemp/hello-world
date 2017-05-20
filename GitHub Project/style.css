@@ -10,6 +10,6 @@ margin:20px;
 color: white;
 background-color: teal;
 }
-.title {
-color: black;!important
+span.title {
+color: black!important;
 }
