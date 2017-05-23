@@ -30,7 +30,7 @@ function displayRecords () {
   for(var i=0; i<records.length; i++) {
     var item = records[i];
     fullDisplay += '<div id="item'+i+'" >';
-    
+    fullDisplay += '<img class="itemThumb" src = "shirt.gif"/>'
     fullDisplay += '<div class="itemBrand"><span class="title">Brand:</span>'+item.brand+'</div>';
     fullDisplay += '<div class="itemCatagory"><span class="title">Catagory:</span>'+item.catagory+'</div>';
     fullDisplay += '<div class="itemSize"><span class="title">Size:</span>'+item.size+'</div>';
