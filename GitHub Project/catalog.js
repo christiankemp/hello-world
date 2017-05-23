@@ -17,9 +17,9 @@ var records = [
 {brand:"Rick Owens DRKSHDW", catagory: "Shorts", size:"2", color:"Black", description: "Drop-Crotch Pod Shorts", photo:"photo link here"},
 {brand:"ACRONYM", catagory: "Footwear", size:"11.5", color:"Olive, Black", description: "ACRONYM Air Prestos - Bamboo", photo:"photo link here"},
 {brand:"Adidas, Yeezy", catagory: "Footwear", size:"11.5", color:"Black, Red", description: "Adidas Yeezy Boost 350 V2 - BRED", photo:"photo link here"},
-{brand:"Nike", catagory: "Footwear", size:"11.5", color:"Royal Blue, Black, White", description: "Retro Royal 1s", photo:"photo link here"} 
+{brand:"Nike", catagory: "Footwear", size:"11.5", color:"Royal Blue, Black, White", description: "Retro Royal 1s", photo:"photo link here"}, 
 {brand:"Nike", catagory: "Footwear", size:"12", color:"Red, Black, White", description: "Retro BRED 1s", photo:"photo link here"},
-{brand:"424 On Fairfax", catagory: "Accessories", size:"OS", color:"Red, Black", description: "424 Red Armband", photo:"photo link here"} 
+{brand:"424 On Fairfax", catagory: "Accessories", size:"OS", color:"Red, Black", description: "424 Red Armband", photo:"photo link here"},
 {brand:"Black Scale", catagory: "Accessories", size:"OS", color:"Rose Gold, Black", description: "Seventh Star Ring", photo:"photo link here"},
 {brand:"Veritas", catagory: "Accessories", size:"OS", color:"Rose Gold", description: "Rose Gold Cuban Link Bracelet", photo:"photo link here"},
 {brand:"Veritas", catagory: "Accessories", size:"OS", color:"Rose Gold", description: "Rose Gold Double Link Bracelet", photo:"photo link here"},
