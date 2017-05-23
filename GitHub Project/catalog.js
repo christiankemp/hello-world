@@ -21,8 +21,8 @@ var records = [
 {brand:"Nike", catagory: "Footwear", size:"12", color:"Red, Black, White", description: "Retro BRED 1s", photo:"photo link here"},
 {brand:"424 On Fairfax", catagory: "Accessories", size:"OS", color:"Red, Black", description: "424 Red Armband", photo:"photo link here"},
 {brand:"Black Scale", catagory: "Accessories", size:"OS", color:"Rose Gold, Black", description: "Seventh Star Ring", photo:"photo link here"},
-{brand:"Veritas", catagory: "Accessories", size:"OS", color:"Rose Gold", description: "Rose Gold Cuban Link Bracelet", photo:"photo link here"},
-{brand:"Veritas", catagory: "Accessories", size:"OS", color:"Rose Gold", description: "Rose Gold Double Link Bracelet", photo:"photo link here"},
+{brand:"Black Scale", catagory: "Accessories", size:"OS", color:"Rose Gold", description: "Rose Gold Cuban Link Bracelet", photo:"photo link here"},
+{brand:"Black Scale", catagory: "Accessories", size:"OS", color:"Rose Gold", description: "Rose Gold Double Link Bracelet", photo:"photo link here"},
 {brand:"PALACE", catagory: "Accessories", size:"OS", color:"Teal, White, Black", description: "Rucksack Backpack", photo:"photo link here"},
 ];
 function displayRecords () {
