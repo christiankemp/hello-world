@@ -1,6 +1,6 @@
 var records = [
 {brand:"Black Scale", catagory: "Headwear", size:"OS", color:"Black, Black", description: "Wide Brim Fedora", photo:"photo link here"},
-{brand:"Black Scale", catagory: "Headwear", size:"OS", color:"Black, White", description: "Pitchfork Bandana Strapback", photo:"photo link here"}
+{brand:"Black Scale", catagory: "Headwear", size:"OS", color:"Black, White", description: "Pitchfork Bandana Strapback", photo:"photo link here"},
 {brand:"RSVP Gallery", catagory: "Hoodie", size:"2", color:"Black, White", description: "RSVP Logo Hoodie", photo:"photo link here"},
 {brand:"424 On Fairfax", catagory:"Shirt", size:"2", color:"Black, Grey", description: "Throwover Flannel Shirt", photo:"photo link here"},
 {brand:"RHUDE", catagory: "Shirt", size:"3", color:"Navy, Black", description: "Dad Shirt", photo:"photo link here"} , 
